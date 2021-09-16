@@ -1,7 +1,3 @@
-//Advanced Boolean Logic Games
-//Rock, Paper, Scissors - Question 2
-//Nihal Sahu
-
 int player1Choice = 3;
 int player2Choice = 3;
 
@@ -216,8 +212,3 @@ void mousePressed() {
   }
 }
 
-//ALGORITHM
-//first, user is presented with the instructions on how both players can play. they are also shown the score.
-//then it is player 1's move, they can press a, b, or c to make their move, or click on the image. then they press n to lock in their choice
-//next, player 2 will do the same thing. when they press n it will show who won based on player 1's choice. 
-//the user has the option to press y to play again as well as view the score. 
